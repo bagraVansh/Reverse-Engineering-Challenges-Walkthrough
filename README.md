@@ -48,7 +48,8 @@ Each challenge directory contains:
 
 | Challenge | Topics | Writeup |
 |---|---|---|
-| Simple Encryptor | PRNG, XOR, Bit Rotation | [View](./Challenge1/README.md) |
+| Simple Encryptor | PRNG, XOR, Bit Rotation | [View](./rev_simpleencryptor/README.md) |
+| Behind The Scene | Anti-Reverse Engineering Techniques | [View](./rev_behindthescene/README.md) |
 
 > The index is updated as new writeups are added.
 
